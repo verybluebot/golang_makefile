@@ -7,15 +7,15 @@ git clone git clone https://github.com/verybluebot/golang_makefile.git
 
 ```
 
-Then `cd` into the project root directory and use to build binary file:
+Then `cd` into project root directory and use make utility to build the binary:
 ```
 make all
 
 ```
 
-Now you can go on and create your program using this as a template!
+Now you can go on and create your own program using this as a template!
 
-Or you can get only the makefile and use it in your project:
+Or you can get only the makefile and copy it to your project:
 ```
 // using wget:
 wget https://raw.githubusercontent.com/verybluebot/golang_makefile/master/makefile
